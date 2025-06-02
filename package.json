@@ -1,6 +1,5 @@
 {
   "name": "contacts",
-  "homepage": "https://mattshi4.github.io/contacts-app/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
